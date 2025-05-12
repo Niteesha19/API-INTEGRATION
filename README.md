@@ -62,3 +62,10 @@ Conclusion:
 This project helped me learn how to integrate an API into a webpage. It showed me how to fetch data from an external source and display it dynamically on the webpage without needing to reload the page. Working with the OpenLibrary API was a great way to practice how real-world APIs work. I also learned how to handle user input and error handling, which are important parts of web development.
 
 Overall, this project gave me valuable experience in working with APIs and updating a webpage in real time. It also helped me get more comfortable with JavaScript, which is a key skill for building interactive websites.Additionally, this project has improved my problem-solving skills by addressing challenges such as managing asynchronous data and ensuring a smooth user interface. It also reinforced the importance of clear error handling and user-friendly design in web development.
+
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/8ee29afb-7f84-41e9-9012-8b482cab5c67)
+
+
