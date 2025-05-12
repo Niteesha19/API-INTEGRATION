@@ -64,8 +64,11 @@ This project helped me learn how to integrate an API into a webpage. It showed m
 Overall, this project gave me valuable experience in working with APIs and updating a webpage in real time. It also helped me get more comfortable with JavaScript, which is a key skill for building interactive websites.Additionally, this project has improved my problem-solving skills by addressing challenges such as managing asynchronous data and ensuring a smooth user interface. It also reinforced the importance of clear error handling and user-friendly design in web development.
 
 
-#OUTPUT:
+OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/8ee29afb-7f84-41e9-9012-8b482cab5c67)
+
+
+![Image](https://github.com/user-attachments/assets/45cf5fd4-1495-4512-bab2-71d140dfaf76)
 
 
